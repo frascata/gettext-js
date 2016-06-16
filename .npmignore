@@ -1,0 +1,9 @@
+.idea/
+node_modules/
+.babelrc
+.eslintrc
+.gitignore
+.npmignore
+gulpfile.babel.js
+locale/
+tests/

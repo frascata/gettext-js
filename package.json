@@ -1,0 +1,44 @@
+{
+  "name": "gettext-js",
+  "version": "0.0.0",
+  "description": "Gulp tasks and translation class to manage PO files in your javascript application.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frascata/gettext-js.git"
+  },
+  "author": "PHOTOSI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frascata/gettext-js/issues"
+  },
+  "homepage": "https://github.com/frascata/gettext-js#readme",
+  "devDependencies": {
+    "babel-eslint": "^6.0.4",
+    "babel-jsxgettext": "^0.2.0",
+    "babel-preset-es2015": "^6.3.13",
+    "babelify": "^7.2.0",
+    "browserify": "^12.0.1",
+    "del": "^2.2.0",
+    "eslint": "^1.10.3",
+    "glob": "^7.0.3",
+    "gulp": "^3.9.0",
+    "gulp-babel": "^6.1.2",
+    "gulp-eslint": "^2.0.0",
+    "gulp-load-plugins": "^1.2.0",
+    "gulp-po2json": "^0.4.0",
+    "mocaccino": "^1.8.2",
+    "partialify": "^3.1.6",
+    "phantomic": "^1.4.0"
+  },
+  "dependencies": {
+    "jed": "^1.1.0"
+  },
+  "browserify": {
+    "transform": [
+      "babelify"
+    ]
+  }
+}
