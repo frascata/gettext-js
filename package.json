@@ -1,9 +1,10 @@
 {
   "name": "gettext-js",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Gulp tasks and translation class to manage PO files in your javascript application.",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepublish": "gulp"
   },
   "repository": {
     "type": "git",

@@ -1,0 +1,43 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals = 2; plural = (n !== 1);\n"
+
+msgid ""
+msgstr ""
+
+#: src/js/AeFooter.js:66
+msgid "seguici"
+msgstr "Seguici su"
+
+#: src/js/AeFooter.js:82
+msgid "Via Carpegna 22, 47838 Riccione (RN) Italia"
+msgstr "Via Carpegna 22, 47838 Riccione (RN) Italia"
+
+#: src/js/AeFooter.js:83
+msgid "Tel +39 0541 609111 - Fax +39 0541 606354"
+msgstr "Tel +39 0541 609111 - Fax +39 0541 606354"
+
+#: src/js/AeFooter.js:84
+msgid "Partita IVA 03550860401"
+msgstr "Partita IVA 03550860401"
+
+#: src/js/AeFooter.js:89
+msgid "italia"
+msgstr "Italia"
+
+#: src/js/AeFooter.js:99
+msgid ""
+"Album Epoca è un marchio registrato da Photosì Spa. Tutti i diritti sono "
+"riservati."
+msgstr "Album Epoca è un marchio registrato da Photosì Spa. Tutti i diritti sono riservati."
+
+#: src/js/AeFooter.js:100
+msgid "Termini e condizioni di utilizzo."
+msgstr "Termini e condizioni di utilizzo."
