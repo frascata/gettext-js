@@ -16,7 +16,7 @@ The package contains two files:
 
 - **tasks.js** : contains gulp tasks to manage PO files
 
-- **translation.js** : contains class with methods to translate strings (using ```babel-jsxgettext`` and ```Jed``` packages)
+- **translation.js** : contains class with methods to translate strings (using ```babel-jsxgettext``` and ```Jed``` packages)
 
 
 ### tasks.js

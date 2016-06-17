@@ -1,6 +1,6 @@
 {
   "name": "gettext-js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Gulp tasks and translation class to manage PO files in your javascript application.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
