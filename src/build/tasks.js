@@ -40,7 +40,7 @@ export default class {
      * It parses source javascript files (this.sourceJs) looking for the key 'gettext'
      */
     this.gulp.task('gtx:locale-update', () => {
-      gettext(glob.sync(this.sourceJs), this.localeMainFile, (err) => {
+      gettext(glob.sync(this.sourceJs), this.localeMainFile, null, (err) => {
         if (err) {
           $.util.log(err);
         }
